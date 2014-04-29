@@ -1,4 +1,4 @@
-contas-angular
-==============
+contas-angular-parse
+====================
 
-Sistema de Contas pessoais utilizando angular
+Sistema de contas pessoais, com Angular e Parse.com
